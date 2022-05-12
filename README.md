@@ -1,6 +1,6 @@
 # 🇫🇷 Nike Scrapper
 
-Bot Discord utilisant selenium codé en python permettant de récupérer le stock du site Nike sur une paire spécifiée.  
+Bot Discord utilisant selenium, codé en python, permettant de récupérer le stock du site Nike sur une paire spécifiée.  
 
 Le bot renvoie un screenshot pour que l'utilisateur s'assure du bon fonctionnement du bot.
 
@@ -14,7 +14,8 @@ Pour utiliser le bot, il vous faut installer les modules avec la commande suivan
 ```bash
 pip install -r requirements.txt
 ```
-Dans le fichier .env remplacez le 'TOKEN' par le token de votre bot Discord (sans les '')  
+Dans le fichier .env remplacez le 'TOKEN' par le token de votre bot Discord (sans les '')   
+
 Lancez le fichier **launch.bat**  
 
 Sinon, dans une invite de commande tapez 
@@ -47,7 +48,7 @@ Apres quelques secondes le bot devrais renvoyer le résultat de la requête.
 
 # 🇺🇸 Nike Scrapper
 
-Discord bot using selenium coded in python allowing to retrieve the stock of the Nike website on a specified pair.  
+Discord bot using selenium, coded in python, allowing to retrieve the stock of the Nike website on a specified shoes.  
 
 The bot sends back a screenshot so that the user can check if the bot is working properly.
 
@@ -61,7 +62,8 @@ To use the bot, you need to install the modules with the following command:
 ```bash
 pip install -r requirements.txt
 ```
-In the .env file replace the 'TOKEN' by the token of your Discord bot (without the '')  
+In the .env file replace the 'TOKEN' by the token of your Discord bot (without the '')   
+
 Launch the file **launch.bat**  
 
 Otherwise, in a command prompt type 
