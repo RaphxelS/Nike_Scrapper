@@ -24,7 +24,7 @@ python bot.py
 
 
 ## Usage
-Lorsque le bot est lancé, rendez vous dans le salon de votre choix est tapez la commande :  
+Lorsque le bot est lancé, rendez vous dans le salon discord de votre choix et tapez la commande :  
 ```
 !nk [taille] [lien]
 ```
@@ -72,7 +72,7 @@ python bot.py
 
 
 ## Usage
-When the bot is launched, go to the room of your choice and type the command :  
+When the bot is launched, go to the discord channel of your choice and type the command :  
 ```
 !nk [size] [link]
 ```
