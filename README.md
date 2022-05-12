@@ -39,6 +39,10 @@ Apres quelques secondes le bot devrais renvoyer le résultat de la requête.
 - [ ] Améliorer la vitesse de recherche.
 - [ ] Etendre la compatibilité.  
 
+## DEMO
+
+![Alt Text](https://i.imgur.com/0Je1Vx2.gif)
+
 </br>
 </br>
 </br>
