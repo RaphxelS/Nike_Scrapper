@@ -10,9 +10,6 @@ from nike_scrap import *
 load_dotenv()
 TOKEN = os.getenv('DISCORD_TOKEN')
 
-# TOKEN = 'OTY1MzYyMDM2NTU1MDAxOTA2.YlyFdQ.Vc6Kf7V_ZE18s-jHCfk0PF-SH70'
-# GUILD = '965362817618280458'
-
 intents = Intents.default()
 intents.members = True
 
