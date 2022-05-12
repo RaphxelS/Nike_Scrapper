@@ -41,7 +41,7 @@ Apres quelques secondes le bot devrais renvoyer le résultat de la requête.
 
 ## DEMO
 
-![Alt Text](https://i.imgur.com/0Je1Vx2.gif)
+<img src="https://i.imgur.com/0Je1Vx2.gif" width="1371" height="630" />
 
 </br>
 </br>
