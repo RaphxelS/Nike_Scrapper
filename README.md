@@ -38,6 +38,11 @@ Apres quelques secondes le bot devrais renvoyer le résultat de la requête.
 - [ ] Améliorer la vitesse de recherche.
 - [ ] Etendre la compatibilité.  
 
+</br>
+</br>
+</br>
+</br>
+</br>
 
 
 # 🇺🇸 Nike Scrapper
