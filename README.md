@@ -12,9 +12,16 @@ Prefix du bot : !
 Pour utiliser le bot, il vous faut installer les modules avec la commande suivante  :
 
 ```bash
+git clone https://github.com/RaphxelS/Nike_Scrapper
+cd Nike_Scrapper
 pip install -r requirements.txt
 ```
 Dans le fichier .env remplacez le 'TOKEN' par le token de votre bot Discord (sans les '')   
+
+
+
+
+## Usage
 
 Lancez le fichier **launch.bat**  
 
@@ -23,8 +30,6 @@ Sinon, dans une invite de commande tapez
 python bot.py
 ```
 
-
-## Usage
 Lorsque le bot est lancé, rendez vous dans le salon discord de votre choix et tapez la commande :  
 ```
 !nk [taille] [lien]
@@ -64,9 +69,16 @@ Prefix of the bot : !
 To use the bot, you need to install the modules with the following command:
 
 ```bash
+git clone https://github.com/RaphxelS/Nike_Scrapper
+cd Nike_Scrapper
 pip install -r requirements.txt
 ```
 In the .env file replace the 'TOKEN' by the token of your Discord bot (without the '')   
+
+
+
+
+## Usage
 
 Launch the file **launch.bat**  
 
@@ -76,8 +88,6 @@ Otherwise, in a command prompt type
 python bot.py
 ```
 
-
-## Usage
 When the bot is launched, go to the discord channel of your choice and type the command :  
 ```
 !nk [size] [link]
