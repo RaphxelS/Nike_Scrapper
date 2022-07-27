@@ -13,7 +13,10 @@ TOKEN = os.getenv('DISCORD_TOKEN')
 intents = Intents.default()
 intents.members = True
 
-bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
+bot = commands.Bot(
+    command_prefix='!',
+    intents = discord.Intents(messages=True)
+)
 
 
 @bot.command(name='nk', help='SCRAP NIKE STOCK')
