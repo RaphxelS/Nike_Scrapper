@@ -2,6 +2,8 @@ import time
 import sys
 import validators
 from selenium import webdriver
+from selenium.webdriver.chrome.service import Service as ChromeService
+from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.chrome.options import Options
@@ -12,7 +14,8 @@ chrome_options = Options()
 chrome_options.add_argument('--headless')  # No window
 chrome_options.add_argument('--log-level=3')
 chrome_options.add_argument("--window-size=1920x1080")
-driver = webdriver.Chrome(chrome_options=chrome_options)
+# OLD CODE: driver = webdriver.Chrome(chrome_options=chrome_options)
+driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
 action = ActionChains(driver)
 
 
